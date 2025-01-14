@@ -1,3 +1,3 @@
 # Anurag-demo
 this is my first repository <br>
-author anurag verma
+author Anurag is bca student
